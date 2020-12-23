@@ -12,7 +12,7 @@
 	</style>
 </head>    
 <body>
-     <div class="title">----------------------------------------------- RESUME------------------------------------------</div>
+     <div class="title">RESUME</div>
 	 <table border="1"width="1200" cellpadding="2"> 
 	     <tr>
 		     <td>姓名</td>
