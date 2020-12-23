@@ -1,38 +1,36 @@
 <!DOCTYPE html>
 <html>
-    
-     
 <head>
     <meta charset="utf-8"></meta>
     <title>RESUME </title>
-	<style type="text/css">
-	.title{font-weight:bold;font-size:24px}
-	.keyword{color:red}
-	.box{with:100px;height:100px;background-color:green}
-	</style>
+    <style type="text/css">
+    .title{font-weight:bold;font-size:24px}
+    .keyword{color:red}
+    .box{with:100px;height:100px;background-color:green}
+    </style>
 </head>    
 <body>
      <div class="title">RESUME</div>
-	 <table border="1"width="1200" cellpadding="2"> 
-	     <tr>
-		     <td>姓名</td>
-		     <td>年龄</td>
-		     <td>性别</td>
-		 </tr>
-		 <tr>
-		     <td>徐康航 KANGHANG XU</td>
-			 <td>45</td>
-			 <td>男</td>
-		 </tr>	
-	 </table>	      
-	 <h3>我的工作经历和回答问题</h3>
-	 <ul>
-	     <li>98年--2012年 工作在某台湾的物流上市公司）做分公司经理</a></li>
-		 <li>2012-至今 自主创业</li>
+     <table border="1"width="1200" cellpadding="2"> 
+	<tr>
+             <td>姓名</td>
+	     <td>年龄</td>
+	     <td>性别</td>
+       </tr>
+       <tr>
+	     <td>徐康航 KANGHANG XU</td>
+	     <td>45</td>
+	     <td>男</td>
+       </tr>	
+</table>	      
+<h3>我的工作经历和回答问题</h3>
+<ul>
+	<li>98年--2012年 工作在某台湾的物流上市公司）做分公司经理</a></li>
+        <li>2012-至今 自主创业</li>
 	 
 </body>
 <body>
-	 <li>个人介绍：我在大学的专业是船舶电气，毕业后从事了船舶的维修工作，我对对偏机械类的工
+	<li>个人介绍：我在大学的专业是船舶电气，毕业后从事了船舶的维修工作，我对对偏机械类的工
 	 作确实不太适应，短短二个月后就开始了货运代理的工作，后来又进修了国际贸易。自己创业中做
 	 过快递项目，餐饮项目，货运代理项目，国际贸易，有些小成绩。但总是在互联网和实体结合上没
 	 有做好，原因在于自己不懂，周围也没有懂行的人，多次被骗。我就寻思要自己学习，这个技能可
